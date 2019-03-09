@@ -1,0 +1,27 @@
+div{
+	background-color: white;
+	padding: 20px;
+	border-width: 5px;
+	border-color: darkgray;
+	border-style: solid;
+	text-align: center;
+}
+body{
+	background-color: darkgray;
+	color: darkgray;
+}
+#artical{
+	background-color: darkgray;
+	color: white;
+}
+#h1h2h3, #Paragraph{
+	color: darkgray;
+}
+#section{
+	width: 50%;
+}
+#aside{
+	width: 43%;
+	float: right;
+	height: 222px;
+}
